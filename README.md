@@ -1,5 +1,6 @@
 # website status
-live status: ⚠️ non-working (why? it's for a major update anniversary (1) updata 
+live status: ⚠️ non-working 
+(why? it's for a major update anniversary (1) updata 
 non-working to 2th July 2023 
 # information status 
 | country |Status | 
